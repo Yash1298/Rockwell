@@ -1,2 +1,6 @@
-# Rockwell
-SDM end module exam sample question code
+# Rockwell 
+
+#Author : Yash Gandhi
+
+SDM end module exam sample question code 
+given by Ravi Sir
